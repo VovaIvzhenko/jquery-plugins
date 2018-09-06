@@ -35,7 +35,7 @@
     $('<button/>',{
       text: config.buttonText
     }).appendTo(this);
-
+    //test
     return this;
   };
 })(jQuery);
